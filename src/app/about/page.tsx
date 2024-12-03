@@ -11,8 +11,8 @@ const About = () => {
                 unique story, blending craftsmanship, technology, and style. 
                 From luxurious mechanical watches that showcase intricate 
                 designs to sleek, modern smartwatches that offer cutting-edge
-                 features, there's a watch for every personality and occasion.
-                  Whether you're a collector seeking rare and exquisite pieces
+                 features, there`s a watch for every personality and occasion.
+                  Whether you`re a collector seeking rare and exquisite pieces
                    or someone looking for a reliable everyday companion, the
                     watch world offers endless possibilities. Embrace the 
                     artistry of horology, where tradition and modernity
